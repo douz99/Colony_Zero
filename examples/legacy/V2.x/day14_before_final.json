@@ -1,0 +1,150 @@
+{
+  "population": 10,
+  "log": [
+    "Landing complete. Four pioneers. Fifteen days. One chance.",
+    "Build: Hydroponic Farm at (1, 1); -12 Materials.",
+    "Day 1: Food +8 / meals -4; Materials +0; Energy reserve 9; Happiness 71.",
+    "Next growth check: Day 3.",
+    "Build: Mining Facility at (1, 3); -14 Materials.",
+    "Day 2: Food +8 / meals -4; Materials +6; Energy reserve 3; Happiness 72.",
+    "Next growth check: Day 3.",
+    "Council alert: Silver under the dust.",
+    "Council: Collect surface fragments. Materials +5, Happiness +1.",
+    "Build: Solar Plant at (5, 5); -10 Materials.",
+    "Day 3: Food +8 / meals -4; Materials +6; Energy reserve 4; Happiness 74.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "Upgrade: Solar Plant at (5, 5) to L2; -8 Materials; +12 Energy/day.",
+    "Day 4: Food +8 / meals -5; Materials +6; Energy reserve 10; Happiness 75.",
+    "Next growth check: Day 6.",
+    "Council alert: The sky turns electric.",
+    "Council: Shield the solar arrays. Materials -8, Happiness +2.",
+    "Build: Residential Module at (2, 1); -12 Materials.",
+    "Day 5: Food +10 / meals -5; Materials +6; Energy reserve 15; Happiness 78.",
+    "Next growth check: Day 6.",
+    "Day 6: Food +10 / meals -5; Materials +6; Energy reserve 20; Happiness 79.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "Council alert: An empty seat at dinner.",
+    "Council: Host a colony dinner. Food -6, Happiness +10.",
+    "Upgrade: Hydroponic Farm at (1, 1) to L2; -10 Materials; 4 Energy -> 12 Food/day.",
+    "Day 7: Food +14 / meals -6; Materials +6; Energy reserve 24; Happiness 90.",
+    "Next growth check: Day 9.",
+    "Day 8: Food +14 / meals -6; Materials +6; Energy reserve 28; Happiness 91.",
+    "Next growth check: Day 9.",
+    "Upgrade: Mining Facility at (1, 3) to L2; -10 Materials; 4 Energy -> 9 Materials/day.",
+    "Day 9: Food +14 / meals -6; Materials +9; Energy reserve 31; Happiness 92.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "Council alert: Something in the pantry.",
+    "Council: Heat-sterilise the batch. Energy -4, Happiness +2.",
+    "Upgrade: Residential Module at (2, 1) to L2; -8 Materials; +6 housing; 1 Energy/day.",
+    "Day 10: Food +14 / meals -7; Materials +9; Energy reserve 30; Happiness 95.",
+    "Next growth check: Day 12.",
+    "Build: Residential Module at (3, 1); -12 Materials.",
+    "Day 11: Food +14 / meals -7; Materials +9; Energy reserve 32; Happiness 96.",
+    "Next growth check: Day 12.",
+    "Build: Hydroponic Farm at (3, 2); -12 Materials.",
+    "Day 12: Food +24 / meals -7; Materials +9; Energy reserve 31; Happiness 97.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "Council alert: A knock from orbit.",
+    "Council: Welcome the surveyors. Food -4, Population +2, Happiness +3.",
+    "Day 13: Food +24 / meals -10; Materials +9; Energy reserve 30; Happiness 100.",
+    "Next growth check: Day 15.",
+    "Day 14: Food +24 / meals -10; Materials +9; Energy reserve 29; Happiness 100.",
+    "Next growth check: Day 15.",
+    "Council alert: The midnight rattle.",
+    "Council: Repair the converter. Energy +2, Materials -5."
+  ],
+  "last_report": "SETTLED: DAY 14\nFood: +24 produced (home links +4); meals -10.\nEnergy: HQ +2, Solar +12; life support -2, homes -2, facilities -11.\nMaterials: +9 produced (ore bonus +0).\nOffline sites: 0; food shortfall: 0; colonists lost: 0.\nHappiness: 100 -> 100 (mine noise -0/day).\nNext growth check: Day 15.\nAfter settlement: Food 102, Energy 29, Materials 27, Population 10.\nEffects used this day: None\nCouncil: Repair the converter. Energy +2, Materials -5.",
+  "event_order": [
+    "deposit",
+    "storm",
+    "protest",
+    "contamination",
+    "immigrants",
+    "fault"
+  ],
+  "effects": {},
+  "built_today": false,
+  "day": 14,
+  "pending_event": null,
+  "happiness": 100,
+  "energy": 31,
+  "grid": [
+    [
+      "farm",
+      null,
+      "mine",
+      null,
+      null
+    ],
+    [
+      "home",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "home",
+      "farm",
+      "hq",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "solar"
+    ]
+  ],
+  "reason": "",
+  "status": "active",
+  "levels": [
+    [
+      2,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "food": 102,
+  "materials": 22,
+  "version": 3
+}

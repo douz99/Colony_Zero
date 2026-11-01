@@ -1,0 +1,126 @@
+{
+  "happiness": 57,
+  "population": 4,
+  "levels": [
+    [
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "effects": {},
+  "beacon_stage": 0,
+  "built_today": false,
+  "last_report": "SETTLED: DAY 5\nFood: +0 produced (home links +0); meals -2.\nEnergy: HQ +2, Solar +0; life support -2, homes -0, facilities -0.\nMaterials: +0 produced (ore bonus +0).\nOffline sites: 2; food shortfall: 0; colonists lost: 0.\nHappiness: 64 -> 61 (mine noise -0/day).\nGrowth paused: emergency rations this settlement.\nAfter settlement: Food 2, Energy 0, Materials 24, Population 4.\nEffects used this day: None\nCouncil: Work the extra shift. Materials +5, Happiness -4.",
+  "ration_days": 0,
+  "grid": [
+    [
+      "farm",
+      null,
+      null,
+      "mine",
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "hq",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "log": [
+    "Four pioneers. Thirty days. Repair the beacon before the ship passes.",
+    "Build: Mining Facility at (1, 4); -14 Materials.",
+    "Day 1: Food +0 / meals -4; Materials +6; Energy reserve 9; Happiness 71.",
+    "Next growth check: Day 4.",
+    "Day 2: Food +0 / meals -4; Materials +6; Energy reserve 6; Happiness 72.",
+    "Next growth check: Day 4.",
+    "Council alert: A fever in the habitat.",
+    "Council: Power the medical heater. Energy -6, Materials -4, Happiness +6.",
+    "Day 3: Food +0 / meals -4; Materials +0; Energy reserve 0; Happiness 75.",
+    "Next growth check: Day 4.",
+    "Crisis: food shortfall 0; offline 1; deaths 0.",
+    "Day 4: Food +0 / meals -4; Materials +0; Energy reserve 0; Happiness 72.",
+    "Growth paused: need 8 Food after meals.",
+    "Crisis: food shortfall 0; offline 1; deaths 0.",
+    "Emergency rations: next meals halved (round up), growth paused; Happiness -8 (floor 0).",
+    "Build: Hydroponic Farm at (1, 1); -12 Materials.",
+    "Day 5: Food +0 / meals -2; Materials +0; Energy reserve 0; Happiness 61.",
+    "Growth paused: emergency rations this settlement.",
+    "Crisis: food shortfall 0; offline 2; deaths 0.",
+    "Council alert: A small light in the dark.",
+    "Council: Work the extra shift. Materials +5, Happiness -4."
+  ],
+  "day": 5,
+  "status": "active",
+  "materials": 29,
+  "pending_event": null,
+  "campaign_days": 30,
+  "reason": "",
+  "energy": 0,
+  "ration_uses": 1,
+  "food": 2,
+  "event_order": [
+    "medical",
+    "festival",
+    "fault",
+    "deposit",
+    "storm",
+    "contamination",
+    "immigrants",
+    "protest"
+  ],
+  "version": 4
+}

@@ -1,0 +1,107 @@
+{
+  "population": 4,
+  "log": [
+    "Landing complete. Four pioneers. Fifteen days. One chance.",
+    "Build: Hydroponic Farm at (1, 1); -12 Materials.",
+    "Day 1: Food +8 / meals -4; Materials +0; Energy reserve 9; Happiness 71.",
+    "Next growth check: Day 3.",
+    "Build: Mining Facility at (1, 3); -14 Materials.",
+    "Day 2: Food +8 / meals -4; Materials +6; Energy reserve 3; Happiness 72.",
+    "Next growth check: Day 3.",
+    "Council alert: Silver under the dust."
+  ],
+  "last_report": "SETTLED: DAY 2\nFood: +8 produced (home links +0); meals -4.\nEnergy: HQ +2, Solar +0; life support -2, homes -0, facilities -6.\nMaterials: +6 produced (ore bonus +0).\nOffline sites: 0; food shortfall: 0; colonists lost: 0.\nHappiness: 71 -> 72 (mine noise -0/day).\nNext growth check: Day 3.\nAfter settlement: Food 28, Energy 3, Materials 22, Population 4.\nEffects used this day: None",
+  "event_order": [
+    "deposit",
+    "storm",
+    "protest",
+    "contamination",
+    "immigrants",
+    "fault"
+  ],
+  "effects": {},
+  "built_today": false,
+  "day": 2,
+  "pending_event": "deposit",
+  "happiness": 72,
+  "energy": 3,
+  "grid": [
+    [
+      "farm",
+      null,
+      "mine",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "hq",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "reason": "",
+  "status": "active",
+  "levels": [
+    [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "food": 28,
+  "materials": 22,
+  "version": 3
+}

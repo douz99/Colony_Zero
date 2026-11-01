@@ -1,0 +1,203 @@
+{
+  "reason": "",
+  "ruleset": "v33",
+  "energy": 15,
+  "log": [
+    "Four pioneers step into the dust. Thirty weeks to light a way home.",
+    "Build: Hydroponic Farm at (1, 1); -12 Materials.",
+    "Week 1: Food +6 / meals -4; Materials +0; Energy reserve 9; Happiness 71.",
+    "Next growth check: Week 4.",
+    "Build: Mining Facility at (1, 4); -14 Materials.",
+    "Week 2: Food +6 / meals -4; Materials +6; Energy reserve 3; Happiness 72.",
+    "Next growth check: Week 4.",
+    "Council alert: Leave a Light by the Bed.",
+    "Council: Rest and use recovery rations. Food -6, Happiness -4.",
+    "The next shift takes things slowly, looking after one another.",
+    "Build: Solar Plant at (5, 5); -10 Materials.",
+    "Week 3: Food +6 / meals -4; Materials +6; Energy reserve 4; Happiness 69.",
+    "Next growth check: Week 4.",
+    "Upgrade: Solar Plant at (5, 5) to L2; -8 Materials; +12 Energy/week.",
+    "Week 4: Food +6 / meals -4; Materials +6; Energy reserve 10; Happiness 70.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "A new resident arrives. Another name belongs beside the door.",
+    "Engineering record: the map now has paths made by footsteps. We are beginning to know the ground.",
+    "Build: Residential Module at (2, 1); -12 Materials.",
+    "A window lights up. Tonight, someone can leave the folding beds in HQ.",
+    "Week 5: Food +8 / meals -5; Materials +6; Energy reserve 15; Happiness 71.",
+    "Next growth check: Week 8.",
+    "Council alert: The Evening We Kept."
+  ],
+  "paused": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "levels": [
+    [
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "ration_days": 0,
+  "built_today": false,
+  "food": 21,
+  "bulletins_seen": [
+    "week4"
+  ],
+  "materials": 10,
+  "day": 5,
+  "story_seed": 1390851128,
+  "grid": [
+    [
+      "farm",
+      null,
+      null,
+      "mine",
+      null
+    ],
+    [
+      "home",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "hq",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "solar"
+    ]
+  ],
+  "beacon_stage": 0,
+  "last_report": "SETTLED: DAY 5\nFood: +8 produced (home links +2); meals -5.\nEnergy: HQ +2, Solar +12; life support -2, homes -1, facilities -6.\nMaterials: +6 produced (ore bonus +0).\nOffline sites: 0; food shortfall: 0; colonists lost: 0.\nHappiness: 70 -> 71 (mine noise -0/week).\nNext growth check: Week 8.\nAfter settlement: Food 21, Energy 15, Materials 10, Population 5.\nEffects used this week: None\nWeather loss: 0 Food; filter power included: 0 Energy.\nPaused by you: 0. No power or output; timers continue.",
+  "event_snapshot": {
+    "turn": 5,
+    "population": 5,
+    "options": [
+      {
+        "label": "Hold the lantern night",
+        "cost": {
+          "food": 10,
+          "energy": 4
+        },
+        "change": {
+          "happiness": 12
+        }
+      },
+      {
+        "label": "Work the extra shift",
+        "change": {
+          "materials": 5,
+          "happiness": -4
+        }
+      }
+    ]
+  },
+  "population": 5,
+  "memories": {
+    "home_week": 4,
+    "beacon_week": null,
+    "welcomed": 0,
+    "ration_rescues": 0
+  },
+  "pending_event": "festival",
+  "effects": {},
+  "ration_uses": 0,
+  "happiness": 71,
+  "campaign_days": 30,
+  "event_order": [
+    "medical",
+    "festival",
+    "dust",
+    "storm",
+    "immigrants",
+    "filters",
+    "fault",
+    "protest",
+    "cold",
+    "contamination",
+    "deposit",
+    "community"
+  ],
+  "status": "active",
+  "version": 7
+}

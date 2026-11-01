@@ -1,0 +1,141 @@
+{
+  "campaign_days": 30,
+  "built_today": false,
+  "effects": {},
+  "ration_days": 0,
+  "population": 4,
+  "materials": 22,
+  "day": 2,
+  "event_snapshot": {
+    "turn": 2,
+    "population": 4,
+    "options": [
+      {
+        "label": "Power the medical heater",
+        "cost": {
+          "energy": 6,
+          "materials": 4
+        },
+        "change": {
+          "happiness": 6
+        }
+      },
+      {
+        "label": "Rest and use recovery rations",
+        "change": {
+          "food": -6,
+          "happiness": -4
+        }
+      }
+    ]
+  },
+  "energy": 3,
+  "beacon_stage": 0,
+  "grid": [
+    [
+      "farm",
+      null,
+      null,
+      "mine",
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "hq",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "event_order": [
+    "medical",
+    "festival",
+    "dust",
+    "storm",
+    "immigrants",
+    "filters",
+    "fault",
+    "protest",
+    "cold",
+    "contamination",
+    "deposit",
+    "community"
+  ],
+  "status": "active",
+  "last_report": "SETTLED: DAY 2\nFood: +6 produced (home links +0); meals -4.\nEnergy: HQ +2, Solar +0; life support -2, homes -0, facilities -6.\nMaterials: +6 produced (ore bonus +0).\nOffline sites: 0; food shortfall: 0; colonists lost: 0.\nHappiness: 71 -> 72 (mine noise -0/week).\nNext growth check: Week 4.\nAfter settlement: Food 24, Energy 3, Materials 22, Population 4.\nEffects used this week: None\nWeather loss: 0 Food; filter power included: 0 Energy.",
+  "food": 24,
+  "ruleset": "v31",
+  "happiness": 72,
+  "ration_uses": 0,
+  "log": [
+    "Four pioneers step into the dust. Thirty weeks to light a way home.",
+    "Build: Hydroponic Farm at (1, 1); -12 Materials.",
+    "Week 1: Food +6 / meals -4; Materials +0; Energy reserve 9; Happiness 71.",
+    "Next growth check: Week 4.",
+    "Build: Mining Facility at (1, 4); -14 Materials.",
+    "Week 2: Food +6 / meals -4; Materials +6; Energy reserve 3; Happiness 72.",
+    "Next growth check: Week 4.",
+    "Council alert: Leave a Light by the Bed."
+  ],
+  "reason": "",
+  "pending_event": "medical",
+  "levels": [
+    [
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "version": 5
+}

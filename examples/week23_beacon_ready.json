@@ -1,0 +1,244 @@
+{
+  "reason": "",
+  "ruleset": "v33",
+  "energy": 37,
+  "log": [
+    "Next growth check: Week 8.",
+    "Week 8: Food +11 / meals -5; Materials +6; Energy reserve 24; Happiness 80.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "A new resident arrives. Another name belongs beside the door.",
+    "Life record: someone marks our eighth week on a supply crate. A calendar can begin almost anywhere.",
+    "Beacon stage 1/3 complete: -18 Materials, -8 Energy; Happiness +3 (cap 100).",
+    "The first test leaves a clear line in the noise.",
+    "Week 9: Food +11 / meals -6; Materials +6; Energy reserve 20; Happiness 82.",
+    "Next growth check: Week 12.",
+    "Council alert: A Sky Without Sunrise.",
+    "Council: Wait for clearer skies. Happiness -2. Active effects: Solar 50% (dust): 3 week(s).",
+    "Every saved charge will matter until the sky clears.",
+    "Week 10: Food +11 / meals -6; Materials +6; Energy reserve 18; Happiness 79.",
+    "Next growth check: Week 12.",
+    "Milestone: Week 10; 6 pioneers still together.",
+    "Upgrade: Mining Facility at (1, 4) to L2; -10 Materials; 4 Energy -> 9 Materials/week.",
+    "Week 11: Food +11 / meals -6; Materials +9; Energy reserve 15; Happiness 78.",
+    "Next growth check: Week 12.",
+    "Engineering record: a clear silence between radio checks. We keep listening.",
+    "Build: Solar Plant at (5, 4); -10 Materials.",
+    "Week 12: Food +11 / meals -6; Materials +9; Energy reserve 15; Happiness 78.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "A new resident arrives. Another name belongs beside the door.",
+    "Effect ended: Dust season.",
+    "Council alert: A Line Across the Sky.",
+    "Council: Ride out the storm. Happiness -3. Active effects: Solar 50%: 2 week(s).",
+    "The batteries take their turn keeping the lights alive.",
+    "Week 13: Food +11 / meals -7; Materials +9; Energy reserve 15; Happiness 76.",
+    "Next growth check: Week 16.",
+    "Build: Hydroponic Farm at (3, 1); -12 Materials.",
+    "Week 14: Food +19 / meals -7; Materials +9; Energy reserve 12; Happiness 77.",
+    "Next growth check: Week 16.",
+    "Effect ended: Solar storm.",
+    "Beacon reminder: a new HQ stage is unlocked. Finish all stages by Week 29.",
+    "Council alert: Two Names on the Channel.",
+    "Council: Welcome the surveyors. Food -11, Materials +6, Population +2, Happiness +5.",
+    "Two more names are added beside the door.",
+    "Upgrade: Residential Module at (2, 1) to L2; -8 Materials; +6 housing; 1 Energy/week.",
+    "Week 15: Food +19 / meals -9; Materials +9; Energy reserve 19; Happiness 81.",
+    "Next growth check: Week 16.",
+    "Build: Residential Module at (3, 2); -12 Materials.",
+    "Week 16: Food +19 / meals -9; Materials +9; Energy reserve 25; Happiness 80.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "A new resident arrives. Another name belongs beside the door.",
+    "Council alert: What We Breathe.",
+    "Council: Run the backup filter cycle. Happiness -2. Active effects: Farm/Mine power +1: 3 week(s).",
+    "The backup fans run harder. Watch the power reserve.",
+    "Week 17: Food +19 / meals -10; Materials +9; Energy reserve 28; Happiness 78.",
+    "Next growth check: Week 20.",
+    "Beacon stage 2/3 complete: -28 Materials, -18 Energy; Happiness +3 (cap 100).",
+    "Someone pins the ship's approach time beside the radio.",
+    "Week 18: Food +19 / meals -10; Materials +9; Energy reserve 13; Happiness 80.",
+    "Next growth check: Week 20.",
+    "Council alert: The Sound After Midnight.",
+    "Council: Drain and salvage. Energy -13, Materials +3, Happiness -3.",
+    "The loose parts are useful. The empty battery is a reminder.",
+    "Upgrade: Hydroponic Farm at (3, 1) to L2; -10 Materials; 4 Energy -> 9 Food/week.",
+    "Week 19: Food +22 / meals -10; Materials +9; Energy reserve 2; Happiness 78.",
+    "Next growth check: Week 20.",
+    "Effect ended: Filter bypass.",
+    "Life record: supper is being discussed before the shift ends. Small routines can make unfamiliar places gentler.",
+    "Week 20: Food +22 / meals -10; Materials +9; Energy reserve 7; Happiness 78.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "A new resident arrives. Another name belongs beside the door.",
+    "Milestone: Week 20; 11 pioneers still together.",
+    "Council alert: A Chair Left Empty.",
+    "Council: Host a colony dinner. Food -28, Happiness +10.",
+    "The bag stays by the airlock. Its owner returns to the table.",
+    "Upgrade: Solar Plant at (5, 4) to L2; -8 Materials; +12 Energy/week.",
+    "Week 21: Food +22 / meals -11; Materials +9; Energy reserve 17; Happiness 87.",
+    "Next growth check: Week 24.",
+    "Week 22: Food +22 / meals -11; Materials +9; Energy reserve 27; Happiness 86.",
+    "Next growth check: Week 24.",
+    "Beacon reminder: a new HQ stage is unlocked. Finish all stages by Week 29.",
+    "Council alert: The Long Blue Frost.",
+    "Council: Protect the roots; rest the outer beds. Happiness -2. Active effects: Farms 75%: 2 week(s).",
+    "The sheltered roots will have to wait for warmer skies.",
+    "Week 23: Food +16 / meals -11; Materials +9; Energy reserve 37; Happiness 83.",
+    "Next growth check: Week 24.",
+    "Engineering record: the approach checklist is on the wall. A signal must be ready before a ship can answer."
+  ],
+  "paused": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "levels": [
+    [
+      2,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      2
+    ]
+  ],
+  "ration_days": 0,
+  "built_today": false,
+  "food": 96,
+  "bulletins_seen": [
+    "week4",
+    "week8",
+    "week11",
+    "week19",
+    "week23"
+  ],
+  "materials": 40,
+  "day": 23,
+  "story_seed": 1390851128,
+  "grid": [
+    [
+      "farm",
+      null,
+      null,
+      "mine",
+      null
+    ],
+    [
+      "home",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "farm",
+      "home",
+      "hq",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "solar",
+      "solar"
+    ]
+  ],
+  "beacon_stage": 2,
+  "last_report": "SETTLED: DAY 23\nFood: +16 produced (home links +4); meals -11.\nEnergy: HQ +2, Solar +24; life support -2, homes -2, facilities -12.\nMaterials: +9 produced (ore bonus +0).\nOffline sites: 0; food shortfall: 0; colonists lost: 0.\nHappiness: 84 -> 83 (mine noise -0/week).\nNext growth check: Week 24.\nAfter settlement: Food 96, Energy 37, Materials 40, Population 11.\nEffects used this week: Farms 75%: 2 week(s)\nWeather loss: 6 Food; filter power included: 0 Energy.\nPaused by you: 0. No power or output; timers continue.",
+  "event_snapshot": null,
+  "population": 11,
+  "memories": {
+    "home_week": 4,
+    "beacon_week": null,
+    "welcomed": 2,
+    "ration_rescues": 0
+  },
+  "pending_event": null,
+  "effects": {
+    "cold_snap": 1
+  },
+  "ration_uses": 0,
+  "happiness": 83,
+  "campaign_days": 30,
+  "event_order": [
+    "medical",
+    "festival",
+    "dust",
+    "storm",
+    "immigrants",
+    "filters",
+    "fault",
+    "protest",
+    "cold",
+    "contamination",
+    "deposit",
+    "community"
+  ],
+  "status": "active",
+  "version": 7
+}

@@ -1,0 +1,133 @@
+{
+  "population": 7,
+  "log": [
+    "Landing complete. Four pioneers. Fifteen days. One chance.",
+    "Build: Hydroponic Farm at (1, 1); -12 Materials.",
+    "Day 1: Food +8 / meals -4; Materials +0; Energy reserve 9; Happiness 71.",
+    "Next growth check: Day 3.",
+    "Build: Mining Facility at (1, 3); -14 Materials.",
+    "Day 2: Food +8 / meals -4; Materials +6; Energy reserve 3; Happiness 72.",
+    "Next growth check: Day 3.",
+    "Council alert: Silver under the dust.",
+    "Council: Collect surface fragments. Materials +5, Happiness +1.",
+    "Build: Solar Plant at (5, 5); -10 Materials.",
+    "Day 3: Food +8 / meals -4; Materials +6; Energy reserve 4; Happiness 74.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "Upgrade: Solar Plant at (5, 5) to L2; -8 Materials; +12 Energy/day.",
+    "Day 4: Food +8 / meals -5; Materials +6; Energy reserve 10; Happiness 75.",
+    "Next growth check: Day 6.",
+    "Council alert: The sky turns electric.",
+    "Council: Shield the solar arrays. Materials -8, Happiness +2.",
+    "Build: Residential Module at (2, 1); -12 Materials.",
+    "Day 5: Food +10 / meals -5; Materials +6; Energy reserve 15; Happiness 78.",
+    "Next growth check: Day 6.",
+    "Day 6: Food +10 / meals -5; Materials +6; Energy reserve 20; Happiness 79.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "Council alert: An empty seat at dinner.",
+    "Council: Host a colony dinner. Food -6, Happiness +10.",
+    "Upgrade: Hydroponic Farm at (1, 1) to L2; -10 Materials; 4 Energy -> 12 Food/day.",
+    "Day 7: Food +14 / meals -6; Materials +6; Energy reserve 24; Happiness 90.",
+    "Next growth check: Day 9.",
+    "Day 8: Food +14 / meals -6; Materials +6; Energy reserve 28; Happiness 91.",
+    "Next growth check: Day 9.",
+    "Upgrade: Mining Facility at (1, 3) to L2; -10 Materials; 4 Energy -> 9 Materials/day.",
+    "Day 9: Food +14 / meals -6; Materials +9; Energy reserve 31; Happiness 92.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "Council alert: Something in the pantry.",
+    "Council: Heat-sterilise the batch. Energy -4, Happiness +2."
+  ],
+  "last_report": "SETTLED: DAY 9\nFood: +14 produced (home links +2); meals -6.\nEnergy: HQ +2, Solar +12; life support -2, homes -1, facilities -8.\nMaterials: +9 produced (ore bonus +0).\nOffline sites: 0; food shortfall: 0; colonists lost: 0.\nHappiness: 91 -> 92 (mine noise -0/day).\nNew arrival: +1 Population; settlement supplies -4 Food.\nAfter settlement: Food 51, Energy 31, Materials 14, Population 7.\nEffects used this day: None\nCouncil: Heat-sterilise the batch. Energy -4, Happiness +2.",
+  "event_order": [
+    "deposit",
+    "storm",
+    "protest",
+    "contamination",
+    "immigrants",
+    "fault"
+  ],
+  "effects": {},
+  "built_today": false,
+  "day": 9,
+  "pending_event": null,
+  "happiness": 94,
+  "energy": 27,
+  "grid": [
+    [
+      "farm",
+      null,
+      "mine",
+      null,
+      null
+    ],
+    [
+      "home",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "hq",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "solar"
+    ]
+  ],
+  "reason": "",
+  "status": "active",
+  "levels": [
+    [
+      2,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "food": 51,
+  "materials": 14,
+  "version": 3
+}

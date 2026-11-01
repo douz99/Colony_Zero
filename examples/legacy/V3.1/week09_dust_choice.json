@@ -1,0 +1,171 @@
+{
+  "campaign_days": 30,
+  "built_today": false,
+  "effects": {},
+  "ration_days": 0,
+  "population": 6,
+  "materials": 6,
+  "day": 9,
+  "event_snapshot": {
+    "turn": 9,
+    "population": 6,
+    "options": [
+      {
+        "label": "Fit protective array screens",
+        "cost": {
+          "materials": 24
+        },
+        "change": {
+          "happiness": 1
+        }
+      },
+      {
+        "label": "Wait for clearer skies",
+        "change": {
+          "happiness": -2
+        },
+        "effects": {
+          "dust_cloud": 3
+        }
+      }
+    ]
+  },
+  "energy": 20,
+  "beacon_stage": 1,
+  "grid": [
+    [
+      "farm",
+      null,
+      null,
+      "mine",
+      null
+    ],
+    [
+      "home",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "hq",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "solar"
+    ]
+  ],
+  "event_order": [
+    "medical",
+    "festival",
+    "dust",
+    "storm",
+    "immigrants",
+    "filters",
+    "fault",
+    "protest",
+    "cold",
+    "contamination",
+    "deposit",
+    "community"
+  ],
+  "status": "active",
+  "last_report": "SETTLED: DAY 9\nFood: +11 produced (home links +2); meals -6.\nEnergy: HQ +2, Solar +12; life support -2, homes -1, facilities -7.\nMaterials: +6 produced (ore bonus +0).\nOffline sites: 0; food shortfall: 0; colonists lost: 0.\nHappiness: 83 -> 82 (mine noise -0/week).\nNext growth check: Week 12.\nAfter settlement: Food 27, Energy 20, Materials 6, Population 6.\nEffects used this week: None\nWeather loss: 0 Food; filter power included: 0 Energy.",
+  "food": 27,
+  "ruleset": "v31",
+  "happiness": 82,
+  "ration_uses": 0,
+  "log": [
+    "Four pioneers step into the dust. Thirty weeks to light a way home.",
+    "Build: Hydroponic Farm at (1, 1); -12 Materials.",
+    "Week 1: Food +6 / meals -4; Materials +0; Energy reserve 9; Happiness 71.",
+    "Next growth check: Week 4.",
+    "Build: Mining Facility at (1, 4); -14 Materials.",
+    "Week 2: Food +6 / meals -4; Materials +6; Energy reserve 3; Happiness 72.",
+    "Next growth check: Week 4.",
+    "Council alert: Leave a Light by the Bed.",
+    "Council: Rest and use recovery rations. Food -6, Happiness -4.",
+    "The next shift takes things slowly, looking after one another.",
+    "Build: Solar Plant at (5, 5); -10 Materials.",
+    "Week 3: Food +6 / meals -4; Materials +6; Energy reserve 4; Happiness 69.",
+    "Next growth check: Week 4.",
+    "Upgrade: Solar Plant at (5, 5) to L2; -8 Materials; +12 Energy/week.",
+    "Week 4: Food +6 / meals -4; Materials +6; Energy reserve 10; Happiness 70.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "A new resident arrives. Another name belongs beside the door.",
+    "Build: Residential Module at (2, 1); -12 Materials.",
+    "A window lights up. Tonight, someone can leave the folding beds in HQ.",
+    "Week 5: Food +8 / meals -5; Materials +6; Energy reserve 15; Happiness 71.",
+    "Next growth check: Week 8.",
+    "Council alert: Five Small Lights.",
+    "Council: Hold the lantern night. Food -10, Energy -4, Happiness +12.",
+    "For one evening, the landing site looks like somewhere to stay.",
+    "Week 6: Food +8 / meals -5; Materials +6; Energy reserve 16; Happiness 82.",
+    "Next growth check: Week 8.",
+    "Upgrade: Hydroponic Farm at (1, 1) to L2; -10 Materials; 4 Energy -> 9 Food/week.",
+    "Week 7: Food +11 / meals -5; Materials +6; Energy reserve 20; Happiness 81.",
+    "Next growth check: Week 8.",
+    "Week 8: Food +11 / meals -5; Materials +6; Energy reserve 24; Happiness 80.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "A new resident arrives. Another name belongs beside the door.",
+    "Beacon stage 1/3 complete: -18 Materials, -8 Energy; Happiness +3 (cap 100).",
+    "The first test leaves a clear line in the noise.",
+    "Week 9: Food +11 / meals -6; Materials +6; Energy reserve 20; Happiness 82.",
+    "Next growth check: Week 12.",
+    "Council alert: A Sky Without Sunrise."
+  ],
+  "reason": "",
+  "pending_event": "dust",
+  "levels": [
+    [
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "version": 5
+}

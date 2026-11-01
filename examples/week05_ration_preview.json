@@ -1,0 +1,182 @@
+{
+  "reason": "",
+  "ruleset": "v33",
+  "energy": 0,
+  "log": [
+    "Four pioneers step into the dust. Thirty weeks to light a way home.",
+    "Build: Mining Facility at (1, 4); -14 Materials.",
+    "Week 1: Food +0 / meals -4; Materials +6; Energy reserve 9; Happiness 71.",
+    "Next growth check: Week 4.",
+    "Week 2: Food +0 / meals -4; Materials +6; Energy reserve 6; Happiness 72.",
+    "Next growth check: Week 4.",
+    "Council alert: Leave a Light by the Bed.",
+    "Council: Power the medical heater. Energy -6, Materials -4, Happiness +6.",
+    "A warm hum settles over the bunks.",
+    "Week 3: Food +0 / meals -4; Materials +0; Energy reserve 0; Happiness 75.",
+    "Next growth check: Week 4.",
+    "Crisis: food shortfall 0; offline 1; deaths 0.",
+    "Week 4: Food +0 / meals -4; Materials +0; Energy reserve 0; Happiness 72.",
+    "Growth paused: need 8 Food after meals.",
+    "Crisis: food shortfall 0; offline 1; deaths 0.",
+    "Engineering record: the map now has paths made by footsteps. We are beginning to know the ground.",
+    "Emergency rations: next meals halved (round up), growth paused; Happiness -8 (floor 0).",
+    "Build: Hydroponic Farm at (1, 1); -12 Materials.",
+    "Week 5: Food +0 / meals -2; Materials +0; Energy reserve 0; Happiness 61.",
+    "Growth paused: emergency rations this settlement.",
+    "Crisis: food shortfall 0; offline 2; deaths 0.",
+    "Council alert: The Evening We Kept.",
+    "Council: Work the extra shift. Materials +5, Happiness -4.",
+    "The workshop lights stay on. The lanterns wait in a drawer."
+  ],
+  "paused": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "levels": [
+    [
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "ration_days": 0,
+  "built_today": false,
+  "food": 2,
+  "bulletins_seen": [
+    "week4"
+  ],
+  "materials": 29,
+  "day": 5,
+  "story_seed": 1390851128,
+  "grid": [
+    [
+      "farm",
+      null,
+      null,
+      "mine",
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "hq",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "beacon_stage": 0,
+  "last_report": "SETTLED: DAY 5\nFood: +0 produced (home links +0); meals -2.\nEnergy: HQ +2, Solar +0; life support -2, homes -0, facilities -0.\nMaterials: +0 produced (ore bonus +0).\nOffline sites: 2; food shortfall: 0; colonists lost: 0.\nHappiness: 64 -> 61 (mine noise -0/week).\nGrowth paused: emergency rations this settlement.\nAfter settlement: Food 2, Energy 0, Materials 24, Population 4.\nEffects used this week: None\nWeather loss: 0 Food; filter power included: 0 Energy.\nPaused by you: 0. No power or output; timers continue.\nCouncil: Work the extra shift. Materials +5, Happiness -4.",
+  "event_snapshot": null,
+  "population": 4,
+  "memories": {
+    "home_week": null,
+    "beacon_week": null,
+    "welcomed": 0,
+    "ration_rescues": 0
+  },
+  "pending_event": null,
+  "effects": {},
+  "ration_uses": 1,
+  "happiness": 57,
+  "campaign_days": 30,
+  "event_order": [
+    "medical",
+    "festival",
+    "dust",
+    "storm",
+    "immigrants",
+    "filters",
+    "fault",
+    "protest",
+    "cold",
+    "contamination",
+    "deposit",
+    "community"
+  ],
+  "status": "active",
+  "version": 7
+}

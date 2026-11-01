@@ -1,0 +1,132 @@
+{
+  "happiness": 80,
+  "population": 6,
+  "levels": [
+    [
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "effects": {},
+  "beacon_stage": 0,
+  "built_today": false,
+  "last_report": "SETTLED: DAY 8\nFood: +11 produced (home links +2); meals -5.\nEnergy: HQ +2, Solar +12; life support -2, homes -1, facilities -7.\nMaterials: +6 produced (ore bonus +0).\nOffline sites: 0; food shortfall: 0; colonists lost: 0.\nHappiness: 81 -> 80 (mine noise -0/day).\nNew arrival: +1 Population; settlement supplies -4 Food.\nAfter settlement: Food 22, Energy 24, Materials 18, Population 6.\nEffects used this day: None",
+  "ration_days": 0,
+  "grid": [
+    [
+      "farm",
+      null,
+      null,
+      "mine",
+      null
+    ],
+    [
+      "home",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "hq",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "solar"
+    ]
+  ],
+  "log": [
+    "Four pioneers. Thirty days. Repair the beacon before the ship passes.",
+    "Build: Hydroponic Farm at (1, 1); -12 Materials.",
+    "Day 1: Food +6 / meals -4; Materials +0; Energy reserve 9; Happiness 71.",
+    "Next growth check: Day 4.",
+    "Build: Mining Facility at (1, 4); -14 Materials.",
+    "Day 2: Food +6 / meals -4; Materials +6; Energy reserve 3; Happiness 72.",
+    "Next growth check: Day 4.",
+    "Council alert: A fever in the habitat.",
+    "Council: Rest and use recovery rations. Food -6, Happiness -4.",
+    "Build: Solar Plant at (5, 5); -10 Materials.",
+    "Day 3: Food +6 / meals -4; Materials +6; Energy reserve 4; Happiness 69.",
+    "Next growth check: Day 4.",
+    "Upgrade: Solar Plant at (5, 5) to L2; -8 Materials; +12 Energy/day.",
+    "Day 4: Food +6 / meals -4; Materials +6; Energy reserve 10; Happiness 70.",
+    "New arrival: +1 Population; settlement supplies -4 Food.",
+    "Build: Residential Module at (2, 1); -12 Materials.",
+    "Day 5: Food +8 / meals -5; Materials +6; Energy reserve 15; Happiness 71.",
+    "Next growth check: Day 8.",
+    "Council alert: A small light in the dark.",
+    "Council: Hold the lantern night. Food -10, Energy -4, Happiness +12.",
+    "Day 6: Food +8 / meals -5; Materials +6; Energy reserve 16; Happiness 82.",
+    "Next growth check: Day 8.",
+    "Upgrade: Hydroponic Farm at (1, 1) to L2; -10 Materials; 4 Energy -> 9 Food/day.",
+    "Day 7: Food +11 / meals -5; Materials +6; Energy reserve 20; Happiness 81.",
+    "Next growth check: Day 8.",
+    "Day 8: Food +11 / meals -5; Materials +6; Energy reserve 24; Happiness 80.",
+    "New arrival: +1 Population; settlement supplies -4 Food."
+  ],
+  "day": 8,
+  "status": "active",
+  "materials": 18,
+  "pending_event": null,
+  "campaign_days": 30,
+  "reason": "",
+  "energy": 24,
+  "ration_uses": 0,
+  "food": 22,
+  "event_order": [
+    "medical",
+    "festival",
+    "fault",
+    "deposit",
+    "storm",
+    "contamination",
+    "immigrants",
+    "protest"
+  ],
+  "version": 4
+}
