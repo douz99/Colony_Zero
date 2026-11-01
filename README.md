@@ -2,10 +2,17 @@
 
 **Four pioneers. Thirty weeks. A place to call home.**
 
+![Colony Zero cover](cover.png)
 Colony Zero is a turn-based science-fiction colony game built with Python and Tkinter. Turn a small landing site into a settlement: place buildings, balance supplies, welcome newcomers and decide how to respond when things go wrong. Before the supply ship passes, your colony needs a working rescue beacon—and people still there to answer it.
 
 **Current version: V3.3 — Make Room for Home**  
 [简体中文说明](README_中文版.md)
+
+## Gameplay
+
+A colony in progress, with upgraded facilities and a choice between a shared celebration and another workshop shift.
+
+![Colony Zero gameplay screenshot — Week 18](gameplay.png)
 
 ## At a glance
 
